@@ -5,3 +5,5 @@ type testType = {
 }
 
 let myVar:testType = {birthday: "Directly"}
+
+console.log(myVar.birthday)
