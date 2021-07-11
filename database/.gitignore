@@ -1,0 +1,7 @@
+# database
+db/**
+!db/.reserved
+
+# npm
+node_modules
+
